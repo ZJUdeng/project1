@@ -3,7 +3,7 @@ package Day1;
 public class Admin {
     //git修改1.1
     //git修改2
-    //git修改hot-fix
+    //git修改hot-fix text
     private int id;
     private String username;
     private String password;
