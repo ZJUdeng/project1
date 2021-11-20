@@ -1,6 +1,7 @@
 package Day1;
 
 public class Admin {
+    //git修改1.1
     private int id;
     private String username;
     private String password;
